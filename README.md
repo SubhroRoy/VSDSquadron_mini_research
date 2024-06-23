@@ -16,3 +16,5 @@ Fig 1 C-program to compute the sum from 1 to n.<br>
 <img width="211" alt="image" src="https://github.com/SubhroRoy/VSDSquadron_mini_research/assets/169291565/4e612f90-ca34-4e21-bec3-463150ac4742"><br>
 <figurecaption>Fig 3 Solution for n=500 is also verified and correct. </figurecaption>
 </figure><br><br>
+
+From figure Fig 1, Fig2 and Fig3 we can conclude that the C-program written is running without any hassle on gcc and is also producing the correct solution. <br>
