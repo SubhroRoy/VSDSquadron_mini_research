@@ -19,3 +19,4 @@ Fig 1 C-program to compute the sum from 1 to n.<br>
 </figure><br><br>
 
 From figure Fig 1, Fig2 and Fig3 we can conclude that the C-program written is running without any hassle on gcc and is also producing the correct solution. <br>
+### a) Write a C-program that will compute the sum from 1 to n
