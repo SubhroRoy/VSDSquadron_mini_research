@@ -26,4 +26,9 @@ From figures Fig 1, Fig 2 and Fig 3 we can conclude that the C-program written i
 Fig 4 Compiling the written C-Program using RISCV GCC compiler and generating output file sum1ton.o<br>  
 </figurecaption>
 </figure><br><br>
-
+<figure>
+<img width="356" alt="image" src="https://github.com/SubhroRoy/VSDSquadron_mini_research/assets/169291565/68e72eea-99d3-4e26-a263-7b2ff62d2582"><br>
+<figurecaption>
+Fig 5 Running command to disassemble sum1ton.o<br>  
+</figurecaption>
+</figure><br><br>
