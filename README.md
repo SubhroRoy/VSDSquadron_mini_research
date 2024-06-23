@@ -1,7 +1,7 @@
 # VSDSquadron_mini_research
 VSDSquadron mini board research 
 ## Task 1 
-### a) Write a C-program that will compute the sum from 1 to n
+### Labwork a) Write a C-program that will compute the sum from 1 to n
 We will now write a C-Program to compute the sum from 1 to n and execute using GCC.<br>
 <figure>
 <img width="695" alt="image" src="https://github.com/SubhroRoy/VSDSquadron_mini_research/assets/169291565/295d88ca-a29c-4ce1-aae8-453f4cb38eb0"><br>
@@ -18,5 +18,6 @@ Fig 1 C-program to compute the sum from 1 to n.<br>
 <figurecaption>Fig 3 Solution for n=500 is also verified and correct. </figurecaption>
 </figure><br><br>
 
-From figure Fig 1, Fig2 and Fig3 we can conclude that the C-program written is running without any hassle on gcc and is also producing the correct solution. <br>
-### b) Write a C-program that will compute the sum from 1 to n
+From figures Fig 1, Fig 2 and Fig 3 we can conclude that the C-program written is compiling successfully on gcc platform and is also producing the correct solution. <br>
+### Labwork b) Compile the written C-program using RiscV GCC compiler
+
