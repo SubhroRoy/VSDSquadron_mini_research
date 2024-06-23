@@ -38,7 +38,7 @@ Disassembling the sum1ron.o gives a bunch of assembly language code. We will hav
 <figure>
 <img width="790" alt="image" src="https://github.com/SubhroRoy/VSDSquadron_mini_research/assets/169291565/fcb4b04c-d787-467f-97e1-3a24c5d46c93"><br>
 <figurecaption>
-Fig 6 Total no of instructions in main for O1 is 60/4 =15<br>  
+Fig 6 Total no of instructions in main for O1 is 15<br>  
 </figurecaption>
 </figure><br><br>
 
