@@ -20,4 +20,10 @@ Fig 1 C-program to compute the sum from 1 to n.<br>
 
 From figures Fig 1, Fig 2 and Fig 3 we can conclude that the C-program written is compiling successfully on gcc platform and is also producing the correct solution. <br>
 ### Labwork b) Compile the written C-program using RiscV GCC compiler and disassemble.
+<figure>
+<img width="496" alt="image" src="https://github.com/SubhroRoy/VSDSquadron_mini_research/assets/169291565/7657c233-9ed3-48b0-b311-3beb9208f742"><br>
+<figurecaption>
+Fig 4 Compiling the written C-Program using RISCV GCC compiler and generating output file sum1ton.o<br>  
+</figurecaption>
+</figure><br><br>
 
