@@ -33,4 +33,4 @@ Fig 5 Running command to disassemble sum1ton.o<br>
 </figurecaption>
 </figure><br><br>
 
-Disassembling the sum1ron.o gives a bunch of assembly language code. We will have to fetch the main part.<br>
+Disassembling the sum1ron.o gives a bunch of assembly language code. We will have to fetch the main section.<br>
