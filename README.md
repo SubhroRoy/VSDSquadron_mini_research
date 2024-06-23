@@ -12,3 +12,7 @@ Fig 1 C-program to compute the sum from 1 to n.<br>
 <img width="927" alt="image" src="https://github.com/SubhroRoy/VSDSquadron_mini_research/assets/169291565/3e30e460-efe4-4213-b8e6-bffe24ad53eb"><br>
 <figurecaption>Fig 2 Steps leading up to the final output of the c-program sum1ton.c and verified output </figurecaption>
 </figure>
+<figure>
+<img width="211" alt="image" src="https://github.com/SubhroRoy/VSDSquadron_mini_research/assets/169291565/4e612f90-ca34-4e21-bec3-463150ac4742"><br>
+<figurecaption>Fig 3 Solution for n=500 is also verified and correct. </figurecaption>
+</figure>
