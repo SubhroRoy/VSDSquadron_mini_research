@@ -36,7 +36,7 @@ Fig 5 Running command to disassemble sum1ton.o<br>
 Disassembling the sum1ron.o gives a bunch of assembly language code. We will have to fetch the main section.<br>
 
 <figure>
-<img width="788" alt="image" src="https://github.com/SubhroRoy/VSDSquadron_mini_research/assets/169291565/a318d44f-b957-425f-9d1a-d942ca452670"><br>
+<img width="790" alt="image" src="https://github.com/SubhroRoy/VSDSquadron_mini_research/assets/169291565/fcb4b04c-d787-467f-97e1-3a24c5d46c93"><br>
 <figurecaption>
 Fig 6 Total no of instructions in main for O1 is 60/4 =15<br>  
 </figurecaption>
