@@ -19,5 +19,5 @@ Fig 1 C-program to compute the sum from 1 to n.<br>
 </figure><br><br>
 
 From figures Fig 1, Fig 2 and Fig 3 we can conclude that the C-program written is compiling successfully on gcc platform and is also producing the correct solution. <br>
-### Labwork b) Compile the written C-program using RiscV GCC compiler
+### Labwork b) Compile the written C-program using RiscV GCC compiler and disassemble.
 
