@@ -45,7 +45,7 @@ Fig 6 Total no of instructions in main for O1 is 15<br>
 <figure>
 <img width="527" alt="image" src="https://github.com/SubhroRoy/VSDSquadron_mini_research/assets/169291565/7f2ff7d7-1b4e-4d53-ad00-1c90297d628f"><br>
 <figurecaption>
-Fig 7 RiscV objdump Ofast command<br>  
+Fig 7 RiscV Ofast command<br>  
 </figurecaption>
 </figure><br><br>
 
