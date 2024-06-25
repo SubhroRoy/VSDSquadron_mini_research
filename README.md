@@ -127,10 +127,4 @@ Fig 12 RISCV GCC compilation command for clock_cycle_divider.c Ofast (option fas
 </figurecaption>
 </figure><br><br>
 
-<figure>
-<img width="610" alt="image" src="https://github.com/SubhroRoy/VSDSquadron_mini_research/assets/169291565/8c3040bf-f45d-4cf5-af7b-530281aeafee"><br>
-<figurecaption>
-Fig 13 RISCV GCC compiling for Ofast (option fast), for clock_cycle_divider.c <br>  
-</figurecaption>
-</figure><br><br>
 
