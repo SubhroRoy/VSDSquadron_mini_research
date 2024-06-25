@@ -57,3 +57,10 @@ Fig 8 Total no of instructions in main for Ofast is 12<br>
 </figure><br><br>
 
 ## Task2: Write a simple C- Program for Clock Cycle Divider: Crafting a Digital Clock Divider Circuit and compile using RISC V GCC compiler
+
+<figure>
+<img width="389" alt="image" src="https://github.com/SubhroRoy/VSDSquadron_mini_research/assets/169291565/c386fe85-52eb-4916-aded-c7a79a6d8373"><br>
+<figurecaption>
+Fig 9 Total no of instructions in main for Ofast is 12<br>  
+</figurecaption>
+</figure><br><br>
