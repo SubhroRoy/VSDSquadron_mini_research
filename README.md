@@ -114,3 +114,6 @@ Fig 10 clock_cycle_divider.c compiled on GCC. Clock divider output obtained accu
 Fig 11 RISCV GCC compiling for O1 (option 1), for clock_cycle_divider.c <br>  
 </figurecaption>
 </figure><br><br>
+
+The clock_cycle_divider.o is disassembled (converted to assembly language program) using the below command.<br>
+**riscv64-unknown-elf-objdump -d clock_cycle_divider.o**
