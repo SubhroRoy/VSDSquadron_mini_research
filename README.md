@@ -111,6 +111,6 @@ Fig 10 clock_cycle_divider.c compiled on GCC. Clock divider output obtained accu
 <figure>
 <img width="593" alt="image" src="https://github.com/SubhroRoy/VSDSquadron_mini_research/assets/169291565/503ab97c-7726-4555-8cd2-58078470fc9b"><br>
 <figurecaption>
-Fig 11 RISCV GCC compiling for O1 (option 1) <br>  
+Fig 11 RISCV GCC compiling for O1 (option 1), for clock_cycle_divider.c <br>  
 </figurecaption>
 </figure><br><br>
