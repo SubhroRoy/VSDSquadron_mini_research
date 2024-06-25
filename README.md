@@ -97,6 +97,6 @@ int main() {
 <figure>
 <img width="389" alt="image" src="https://github.com/SubhroRoy/VSDSquadron_mini_research/assets/169291565/c386fe85-52eb-4916-aded-c7a79a6d8373"><br>
 <figurecaption>
-Fig 9 <br>  
+Fig 9 clock_cycle_divider.c ready to be compiled on gcc<br>  
 </figurecaption>
 </figure><br><br>
