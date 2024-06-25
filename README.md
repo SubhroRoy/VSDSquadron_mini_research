@@ -58,6 +58,39 @@ Fig 8 Total no of instructions in main for Ofast is 12<br>
 
 ## Task2: Write a simple C- Program for Clock Cycle Divider: Crafting a Digital Clock Divider Circuit and compile using RISC V GCC compiler
 
+'''
+#include <stdio.h>
+#include <stdbool.h>
+
+#define DIVIDE_BY 4  // You can change this value to divide by a different factor
+
+void clock_divider(int divide_by) {
+    bool output_clock = false;
+    int counter = 0;
+
+    printf("Clock Divider by %d\n", divide_by);
+    printf("Input Clock | Output Clock\n");
+    printf("---------------------------\n");
+
+    while (counter < divide_by * 2) {  // Run for enough cycles to observe the division
+        bool input_clock = (counter % 2 == 0);  // Generate a simple clock signal (0, 1, 0, 1,...)
+        printf("     %d      |      %d\n", input_clock, output_clock);
+
+        if (input_clock) {
+            if (counter % divide_by == 0) {
+                output_clock = !output_clock;  // Toggle the output clock
+            }
+        }
+
+        counter++;
+    }
+}
+
+int main() {
+    clock_divider(DIVIDE_BY);
+    return 0;
+}
+'''
 <figure>
 <img width="389" alt="image" src="https://github.com/SubhroRoy/VSDSquadron_mini_research/assets/169291565/c386fe85-52eb-4916-aded-c7a79a6d8373"><br>
 <figurecaption>
