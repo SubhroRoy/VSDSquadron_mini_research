@@ -100,9 +100,13 @@ stdbool - Standard Boolean Library <br>
 
 **#define DIVIDE_BY 4** Defines constant variable that represents the factor by which the clock is divided. <br>
 
-We then initiate a function clock_divider. This function takes an integer argument divide_by and does not return any value.<br>
-This function houses the logic for clock divider.<br> 
-
+We then initiate a function clock_divider. This function takes an integer argument divide_by and does not return any value. The function houses the logic for clock divider.<br>
+The Clock divider logic :<br>
+Initialize the boolean output clock variable to false and initialize clock counter to "0".<br>
+Print initial setup for clock cycle divider task.<br>
+**while (counter < divide_by * 2)** Defines the no of cycles for the output_clock.<br>
+After every input clock cycle increment the counter. Do this till the requiered no of cycles is met.<br> 
+Execute the main program referencing the function.<br>
 
 <br><br>
 <figure>
