@@ -121,7 +121,7 @@ The clock_cycle_divider.o is disassembled (converted to assembly language progra
 
 <figure>
 <img width="610" alt="image" src="https://github.com/SubhroRoy/VSDSquadron_mini_research/assets/169291565/8c3040bf-f45d-4cf5-af7b-530281aeafee"><br>
-<img width="610" alt="image" src="https://github.com/SubhroRoy/VSDSquadron_mini_research/assets/169291565/8c3040bf-f45d-4cf5-af7b-530281aeafee"><br>    
+<img width="728" alt="image" src="https://github.com/SubhroRoy/VSDSquadron_mini_research/assets/169291565/eba218ee-f33a-4598-84bb-113c5d640bb5"><br>    
 <figurecaption>
 Fig 12 RISCV GCC compilation command for clock_cycle_divider.c Ofast (option fast) and its disassembled output for the main part, it has a total of 8 instructions i.e. same as O1 <br>  
 </figurecaption>
