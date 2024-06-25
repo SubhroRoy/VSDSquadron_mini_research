@@ -117,3 +117,11 @@ Fig 11 RISCV GCC compiling for O1 (option 1), for clock_cycle_divider.c <br>
 
 The clock_cycle_divider.o is disassembled (converted to assembly language program) using the below command.<br>
 **riscv64-unknown-elf-objdump -d clock_cycle_divider.o**
+
+<figure>
+<img width="725" alt="image" src="https://github.com/SubhroRoy/VSDSquadron_mini_research/assets/169291565/38858f18-43ef-4c6f-b86c-d176ed3295e2"><br>
+<figurecaption>
+Fig 12 RISCV GCC O1 main executes a total of 8 instructions <br>  
+</figurecaption>
+</figure><br><br>
+
