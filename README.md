@@ -100,3 +100,10 @@ int main() {
 Fig 9 clock_cycle_divider.c ready to be compiled on gcc<br>  
 </figurecaption>
 </figure><br><br>
+
+<figure>
+<img width="308" alt="image" src="https://github.com/SubhroRoy/VSDSquadron_mini_research/assets/169291565/c3e6d1ab-08cf-4d53-a17c-76043138d828"><br>
+<figurecaption>
+Fig 9 clock_cycle_divider.c compiled on GCC. Clock divider output obtained accurately. <br>  
+</figurecaption>
+</figure><br><br>
