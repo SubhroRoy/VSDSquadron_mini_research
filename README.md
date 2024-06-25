@@ -112,7 +112,7 @@ Fig 10 clock_cycle_divider.c compiled on GCC. Clock divider output obtained accu
 <img width="593" alt="image" src="https://github.com/SubhroRoy/VSDSquadron_mini_research/assets/169291565/503ab97c-7726-4555-8cd2-58078470fc9b"><br>
 <img width="725" alt="image" src="https://github.com/SubhroRoy/VSDSquadron_mini_research/assets/169291565/38858f18-43ef-4c6f-b86c-d176ed3295e2"><br>
 <figurecaption>
-Fig 11 RISCV GCC compiling for O1 (option 1), for clock_cycle_divider.c <br>  
+Fig 11 RISCV GCC compilation of clock_cycle_divider.c for O1 (option 1) and its disassembled output for the main part, it has a total of 8 instructions<br>  
 </figurecaption>
 </figure><br><br>
 
