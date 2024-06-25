@@ -93,6 +93,7 @@ int main() {
     return 0;
 }
 ```
+**Explanation of C-Program**<Br>
 <br><br>
 <figure>
 <img width="389" alt="image" src="https://github.com/SubhroRoy/VSDSquadron_mini_research/assets/169291565/c386fe85-52eb-4916-aded-c7a79a6d8373"><br>
