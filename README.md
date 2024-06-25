@@ -1,6 +1,6 @@
 # VSDSquadron_mini_research
 VSDSquadron mini board research 
-## Task 1 
+## Task 1 : Write a C-Program and compile using RISCV compiler and Disassemble.
 ### Labwork a) Write a C-program that will compute the sum from 1 to n.
 We will now write a C-Program to compute the sum from 1 to n and execute using GCC.<br>
 <figure>
