@@ -98,7 +98,10 @@ Preprocessor directives included:<br>
 stdio - Standard Input/Output Library.<br>
 stdbool - Standard Boolean Library <br>
 
-**#define DIVIDE_BY 4** Defines the factor by which the clock is divided. <br>
+**#define DIVIDE_BY 4** Defines constant variable that represents the factor by which the clock is divided. <br>
+
+We then initiate a function clock_divider. This function takes an integer argument divide_by and does not return any value.<br>
+This function houses the logic for clock divider.<br> 
 
 
 <br><br>
