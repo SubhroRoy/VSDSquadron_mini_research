@@ -93,7 +93,14 @@ int main() {
     return 0;
 }
 ```
-**Explanation of C-Program**<Br>
+**Explanation of above C-Program**<Br>
+Preprocessor directives included:<br>
+stdio - Standard Input/Output Library.<br>
+stdbool - Standard Boolean Library <br>
+
+**#define DIVIDE_BY 4** Defines the factor by which the clock is divided. <br>
+
+
 <br><br>
 <figure>
 <img width="389" alt="image" src="https://github.com/SubhroRoy/VSDSquadron_mini_research/assets/169291565/c386fe85-52eb-4916-aded-c7a79a6d8373"><br>
