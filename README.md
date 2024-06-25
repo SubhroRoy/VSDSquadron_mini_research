@@ -112,7 +112,7 @@ Fig 10 clock_cycle_divider.c compiled on GCC. Clock divider output obtained accu
 <img width="593" alt="image" src="https://github.com/SubhroRoy/VSDSquadron_mini_research/assets/169291565/503ab97c-7726-4555-8cd2-58078470fc9b"><br>
 <img width="725" alt="image" src="https://github.com/SubhroRoy/VSDSquadron_mini_research/assets/169291565/38858f18-43ef-4c6f-b86c-d176ed3295e2"><br>
 <figurecaption>
-Fig 11 RISCV GCC compilation command of clock_cycle_divider.c for O1 (option 1) and its disassembled output for the main part, it has a total of 8 instructions<br>  
+Fig 11 RISCV GCC compilation command for clock_cycle_divider.c O1 (option 1) and its disassembled output for the main part, it has a total of 8 instructions<br>  
 </figurecaption>
 </figure><br><br>
 
@@ -120,16 +120,10 @@ The clock_cycle_divider.o is disassembled (converted to assembly language progra
 **riscv64-unknown-elf-objdump -d clock_cycle_divider.o**
 
 <figure>
-<img width="725" alt="image" src="https://github.com/SubhroRoy/VSDSquadron_mini_research/assets/169291565/38858f18-43ef-4c6f-b86c-d176ed3295e2"><br>
-<figurecaption>
-Fig 12 RISCV GCC O1 main executes a total of 8 instructions <br>  
-</figurecaption>
-</figure><br><br>
-
-<figure>
 <img width="610" alt="image" src="https://github.com/SubhroRoy/VSDSquadron_mini_research/assets/169291565/8c3040bf-f45d-4cf5-af7b-530281aeafee"><br>
+<img width="610" alt="image" src="https://github.com/SubhroRoy/VSDSquadron_mini_research/assets/169291565/8c3040bf-f45d-4cf5-af7b-530281aeafee"><br>    
 <figurecaption>
-Fig 13 RISCV GCC compiling for Ofast (option fast), for clock_cycle_divider.c <br>  
+Fig 12 RISCV GCC compilation command for clock_cycle_divider.c Ofast (option fast) and its disassembled output for the main part, it has a total of 8 instructions i.e. same as O1 <br>  
 </figurecaption>
 </figure><br><br>
 
