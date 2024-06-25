@@ -125,3 +125,10 @@ Fig 12 RISCV GCC O1 main executes a total of 8 instructions <br>
 </figurecaption>
 </figure><br><br>
 
+<figure>
+<img width="610" alt="image" src="https://github.com/SubhroRoy/VSDSquadron_mini_research/assets/169291565/8c3040bf-f45d-4cf5-af7b-530281aeafee"><br>
+<figurecaption>
+Fig 11 RISCV GCC compiling for Ofast (option fast), for clock_cycle_divider.c <br>  
+</figurecaption>
+</figure><br><br>
+
