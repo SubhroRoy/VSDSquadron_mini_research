@@ -149,7 +149,7 @@ The command used for spike simulation is:<br>
 <figure>
 <img width="500" alt="image" src="https://github.com/SubhroRoy/VSDSquadron_mini_research/assets/169291565/fc755a22-f659-4528-bfd9-ac87468338fb"><br>    
 <figurecaption>
-Fig 13 Standard GCC simulation vs Spike simulation output comparison for Ofast (gives same output, successful simulation) <br>  
+Fig 13 Standard GCC simulation vs Spike simulation output comparison for Ofast case of sum1ton.o(gives same output, successful simulation) <br>  
 </figurecaption>
 </figure><br><br>
 
@@ -195,4 +195,12 @@ Fig 18 Step by Step execution of assembly code for main part of sum1ton for O1 s
 </figure><br><br>
 
 The next task in lab 3 is to do the spike simulation and debugging of main clock cycle divider C-Program.<br>
+<figure>
+<img width="611" alt="image" src="https://github.com/SubhroRoy/VSDSquadron_mini_research/assets/169291565/7de41da2-7d2b-4899-8f5d-2b8f5a679d64"><br>    
+<figurecaption>
+Fig 19 Standard GCC simulation vs Spike simulation output comparison for O1 case of clock_cycle_divider.o (gives same output, successful simulation) <br>  
+</figurecaption>
+</figure><br><br>
+
+
 
