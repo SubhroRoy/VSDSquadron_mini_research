@@ -164,3 +164,10 @@ We enter the spike area. Here we can execute a part of the code to check its beh
 Fig 14 LUI Instruction <br>  
 </figurecaption>
 </figure><br><br>
+
+<figure>
+<img width="665" alt="image" src="https://github.com/SubhroRoy/VSDSquadron_mini_research/assets/169291565/b271fac1-b5ab-4b35-8a77-52b17dffd9b9"><br>    
+<figurecaption>
+Fig 14 addi Instruction <br>  
+</figurecaption>
+</figure><br><br>
