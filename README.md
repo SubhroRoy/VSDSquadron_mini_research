@@ -221,7 +221,7 @@ Fig 21 Standard GCC simulation vs Spike simulation output comparison for Ofast c
 <img width="550" alt="image" src="https://github.com/SubhroRoy/VSDSquadron_mini_research/assets/169291565/adc11c38-daf5-4240-b721-790dbb0d2a31">
 <br>    
 <figurecaption>
-Fig 20 Step by Step execution of assembly code for main part of clock_cycle_divider.o for Ofast simulation and execution of clock divider function <br>  
+Fig 22 Step by Step execution of assembly code for main part of clock_cycle_divider.o for Ofast simulation and execution of clock divider function <br>  
 </figurecaption>
 </figure><br><br>
 
