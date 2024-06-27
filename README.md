@@ -152,3 +152,6 @@ The command used for spike simulation is:<br>
 Fig 13 Standard GCC simulation vs Spike simulation output comparison (gives same output, successful simulation) <br>  
 </figurecaption>
 </figure><br><br>
+
+The next task is to debug the sum1ton.o. For this, we would need a debugger.<br> 
+The command for debugging is:<br>
