@@ -147,7 +147,7 @@ The first task of Lab3 is to do the spike simulation of the output of the RISCV 
 The command used for spike simulation is:<br>
 **spike pk sum1ton.o** <br>
 <figure>
-<br>    
+<img width="500" alt="image" src="https://github.com/SubhroRoy/VSDSquadron_mini_research/assets/169291565/fc755a22-f659-4528-bfd9-ac87468338fb"><br>    
 <figurecaption>
 Fig 13 Standard GCC simulation vs Spike simulation output comparison (gives same output, successful simulation) <br>  
 </figurecaption>
