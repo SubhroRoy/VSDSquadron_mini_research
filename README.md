@@ -142,7 +142,7 @@ Fig 12 RISCV GCC compilation command for clock_cycle_divider.c Ofast (option fas
 </figurecaption>
 </figure><br><br>
 
-## LAB 3: Spike Simulation
+## LAB 3: Spike Simulation and debug of C-Program
 The first task of Lab3 is to do the spike simulation of the output of the RISCV GCC simulation **"sum1ton.o"**.<br>  
 The command used for spike simulation is:<br>
 **spike pk sum1ton.o** <br>
