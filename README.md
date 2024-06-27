@@ -1,7 +1,7 @@
 # VSDSquadron_mini_research
 VSDSquadron mini board research 
-## Task 1 : Write a C-Program and compile using RISCV compiler and Disassemble.
-### Labwork a) Write a C-program that will compute the sum from 1 to n.
+## LAB 1: Write a C-Program and compile using RISCV compiler and Disassemble.
+### Task 1: Write a C-program that will compute the sum from 1 to n.
 We will now write a C-Program to compute the sum from 1 to n and execute using GCC.<br>
 <figure>
 <img width="695" alt="image" src="https://github.com/SubhroRoy/VSDSquadron_mini_research/assets/169291565/295d88ca-a29c-4ce1-aae8-453f4cb38eb0"><br>
@@ -19,7 +19,7 @@ Fig 1 C-program to compute the sum from 1 to n.<br>
 </figure><br><br>
 
 From figures Fig 1, Fig 2 and Fig 3 we can conclude that the C-program written is compiling successfully on gcc platform and is also producing the correct solution. <br>
-### Labwork b) Compile the written C-program using RiscV GCC compiler and disassemble.
+### Task 2: Compile the written C-program using RiscV GCC compiler and disassemble.
 <figure>
 <img width="496" alt="image" src="https://github.com/SubhroRoy/VSDSquadron_mini_research/assets/169291565/7657c233-9ed3-48b0-b311-3beb9208f742"><br>
 <figurecaption>
@@ -56,10 +56,10 @@ Fig 8 Total no of instructions in main for Ofast is 12<br>
 </figurecaption>
 </figure><br><br>
 
-## Task2: Write a simple C- Program for Clock Cycle Divider: Crafting a Digital Clock Divider Circuit and compile using RISC V GCC compiler
+## LAB 2: Write a simple C- Program for Clock Cycle Divider: Crafting a Digital Clock Divider Circuit and compile using RISC V GCC compiler
 
-The project I am working on is **Clock Cycle Divider**. <br>
-Below is a sample C-Program I execute as part of Task 2. I have used AI tools to generate this code. <br>
+The first task in lab 2 is to find a desirable C-Program code for the project I am working on. The project is am working on is **Clock Cycle Divider**. <br>
+Below is a sample C-Program I have chosen to execute. I have used AI tools to generate this code. <br>
 ```
 #include <stdio.h>
 #include <stdbool.h>
@@ -142,8 +142,8 @@ Fig 12 RISCV GCC compilation command for clock_cycle_divider.c Ofast (option fas
 </figurecaption>
 </figure><br><br>
 
-## Task3: Spike Simulation
-
+## LAB 3: Spike Simulation
+The first task of Lab3 is to do the spike simulation of the output of the RISCV GCC simulation **"sum1ton.o"**.<br>  
 <figure>
 <img width="502" alt="image" src="https://github.com/SubhroRoy/VSDSquadron_mini_research/assets/169291565/7fa997d1-8058-40c2-8ca3-9d0db6280522"><br>    
 <figurecaption>
