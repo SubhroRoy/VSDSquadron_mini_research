@@ -165,6 +165,7 @@ Fig 14 Step by Step execution of assembly code for main part of sum1ton <br>
 </figurecaption>
 </figure><br><br>
 
+Below is the explanation of some of the assembly instructions seen in RISC V simulation. 
 <figure>
 <img width="667" alt="image" src="https://github.com/SubhroRoy/VSDSquadron_mini_research/assets/169291565/fdcfbe4d-78f8-41c8-81db-51cbb3d395f6"><br>    
 <figurecaption>
