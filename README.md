@@ -147,7 +147,7 @@ The first task of Lab3 is to do the spike simulation of the output of the RISCV 
 The command used for spike simulation is:<br>
 **spike pk sum1ton.o** <br>
 <figure>
-<img width="502" alt="image" src="https://github.com/SubhroRoy/VSDSquadron_mini_research/assets/169291565/7fa997d1-8058-40c2-8ca3-9d0db6280522"><br>    
+<br>    
 <figurecaption>
 Fig 13 Standard GCC simulation vs Spike simulation output comparison (gives same output, successful simulation) <br>  
 </figurecaption>
@@ -177,5 +177,19 @@ Fig 15 LUI Instruction <br>
 <img width="665" alt="image" src="https://github.com/SubhroRoy/VSDSquadron_mini_research/assets/169291565/b271fac1-b5ab-4b35-8a77-52b17dffd9b9"><br>    
 <figurecaption>
 Fig 16 addi Instruction <br>  
+</figurecaption>
+</figure><br><br>
+
+<figure>
+<img width="502" alt="image" src="https://github.com/SubhroRoy/VSDSquadron_mini_research/assets/169291565/7fa997d1-8058-40c2-8ca3-9d0db6280522"><br>    
+<figurecaption>
+Fig 17 Standard GCC simulation vs Spike simulation output comparison of O1 (gives same output, successful simulation) <br>  
+</figurecaption>
+</figure><br><br>
+
+<figure>
+<img width="311" alt="image" src="https://github.com/SubhroRoy/VSDSquadron_mini_research/assets/169291565/1e7fa57f-b219-4268-a9a7-5db741407f79"><br>    
+<figurecaption>
+Fig 18 Step by Step execution of assembly code for main part of sum1ton O1 simulation(gives same output, successful simulation) <br>  
 </figurecaption>
 </figure><br><br>
