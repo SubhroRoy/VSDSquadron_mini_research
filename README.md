@@ -149,7 +149,7 @@ The command used for spike simulation is:<br>
 <figure>
 <img width="500" alt="image" src="https://github.com/SubhroRoy/VSDSquadron_mini_research/assets/169291565/fc755a22-f659-4528-bfd9-ac87468338fb"><br>    
 <figurecaption>
-Fig 13 Standard GCC simulation vs Spike simulation output comparison (gives same output, successful simulation) <br>  
+Fig 13 Standard GCC simulation vs Spike simulation output comparison for Ofast (gives same output, successful simulation) <br>  
 </figurecaption>
 </figure><br><br>
 
@@ -161,7 +161,7 @@ We enter the spike area. Here we can execute a part of the code to check its beh
 <figure>
 <img width="323" alt="image" src="https://github.com/SubhroRoy/VSDSquadron_mini_research/assets/169291565/f89f5098-57b7-465d-a9ad-711ab4dc58bd"><br>    
 <figurecaption>
-Fig 14 Step by Step execution of assembly code for main part of sum1ton <br>  
+Fig 14 Step by Step execution of assembly code for main part of sum1ton for Ofast simulations<br>  
 </figurecaption>
 </figure><br><br>
 
@@ -190,6 +190,7 @@ Fig 17 Standard GCC simulation vs Spike simulation output comparison of O1 (give
 <figure>
 <img width="311" alt="image" src="https://github.com/SubhroRoy/VSDSquadron_mini_research/assets/169291565/1e7fa57f-b219-4268-a9a7-5db741407f79"><br>    
 <figurecaption>
-Fig 18 Step by Step execution of assembly code for main part of sum1ton O1 simulation(gives same output, successful simulation) <br>  
+Fig 18 Step by Step execution of assembly code for main part of sum1ton for O1 simulation(gives same output, successful simulation) <br>  
 </figurecaption>
 </figure><br><br>
+
