@@ -159,15 +159,22 @@ spike -d pk sum1ton.o <br>
 We enter the spike area. Here we can execute a part of the code to check its behavior. <br>
 
 <figure>
+<img width="323" alt="image" src="https://github.com/SubhroRoy/VSDSquadron_mini_research/assets/169291565/f89f5098-57b7-465d-a9ad-711ab4dc58bd"><br>    
+<figurecaption>
+Fig 14 Step by Step execution of assembly code for main part of sum1ton <br>  
+</figurecaption>
+</figure><br><br>
+
+<figure>
 <img width="667" alt="image" src="https://github.com/SubhroRoy/VSDSquadron_mini_research/assets/169291565/fdcfbe4d-78f8-41c8-81db-51cbb3d395f6"><br>    
 <figurecaption>
-Fig 14 LUI Instruction <br>  
+Fig 15 LUI Instruction <br>  
 </figurecaption>
 </figure><br><br>
 
 <figure>
 <img width="665" alt="image" src="https://github.com/SubhroRoy/VSDSquadron_mini_research/assets/169291565/b271fac1-b5ab-4b35-8a77-52b17dffd9b9"><br>    
 <figurecaption>
-Fig 14 addi Instruction <br>  
+Fig 16 addi Instruction <br>  
 </figurecaption>
 </figure><br><br>
