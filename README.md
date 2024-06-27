@@ -142,4 +142,4 @@ Fig 12 RISCV GCC compilation command for clock_cycle_divider.c Ofast (option fas
 </figurecaption>
 </figure><br><br>
 
-
+## Task3: Write a simple C- Program for Clock Cycle Divider: Crafting a Digital Clock Divider Circuit and compile using RISC V GCC compiler
