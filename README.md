@@ -202,5 +202,12 @@ Fig 19 Standard GCC simulation vs Spike simulation output comparison for O1 case
 </figurecaption>
 </figure><br><br>
 
+<figure>
+<img width="463" alt="image" src="https://github.com/SubhroRoy/VSDSquadron_mini_research/assets/169291565/4751f55a-0d7d-403d-904b-e90045b2de49"><br>    
+<figurecaption>
+Fig 18 Step by Step execution of assembly code for main part of clock_cycle_divider.o for O1 simulation <br>  
+</figurecaption>
+</figure><br><br>
+
 
 
