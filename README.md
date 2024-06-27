@@ -155,3 +155,11 @@ Fig 13 Standard GCC simulation vs Spike simulation output comparison (gives same
 
 The next task is to debug the sum1ton.o. For this, we would need a debugger.<br> 
 The command for debugging is:<br>
+spike <br>
+
+<figure>
+<img width="667" alt="image" src="https://github.com/SubhroRoy/VSDSquadron_mini_research/assets/169291565/fdcfbe4d-78f8-41c8-81db-51cbb3d395f6"><br>    
+<figurecaption>
+Fig 14 LUI Instruction <br>  
+</figurecaption>
+</figure><br><br>
