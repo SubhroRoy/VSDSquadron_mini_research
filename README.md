@@ -194,3 +194,5 @@ Fig 18 Step by Step execution of assembly code for main part of sum1ton for O1 s
 </figurecaption>
 </figure><br><br>
 
+The next task in lab 3 is to do the spike simulation and debugging of main clock cycle divider C-Program.<br>
+
