@@ -145,7 +145,7 @@ Fig 12 RISCV GCC compilation command for clock_cycle_divider.c Ofast (option fas
 ## Task3: Spike Simulation
 
 <figure>
-<img width="610" alt="image" src="https://github.com/SubhroRoy/VSDSquadron_mini_research/assets/169291565/8c3040bf-f45d-4cf5-af7b-530281aeafee"><br>    
+<img width="502" alt="image" src="https://github.com/SubhroRoy/VSDSquadron_mini_research/assets/169291565/7fa997d1-8058-40c2-8ca3-9d0db6280522"><br>    
 <figurecaption>
 Fig 13  <br>  
 </figurecaption>
