@@ -252,8 +252,9 @@ Upload the 32-bit pattern on Github. <br>
 
 Before going through the specific instructions let us first understand the various **RISC-V Instruction types**.<br>
 RISC-V Instruction types:<br>
-1. R-type: Register-type instructions instructions perform operations where all operands are registers. Eg: opcode rd, rs1, rs2, where rd is the destination register and rs is the source register.
-2. I-type: Immediate-type instructions operate on an immediate value (constant) and a register. Eg: opcode rd, rs1, imm where imm is an immediate value.
-3. S-type: Store-type instructions store a value from the register onto memory. Eg opcode rs2, imm(rs1)
-4. 
-
+1. R-type: Register-type instructions instructions perform operations where all operands are registers. Format opcode rd, rs1, rs2, where rd is the destination register and rs is the source register.
+2. I-type: Immediate-type instructions operate on an immediate value (constant) and a register. Format opcode rd, rs1, imm where imm is an immediate value.
+3. S-type: Store-type instructions store a value from the register onto memory. Format: opcode rs2, imm(rs1) where imm is the immediate value added to location rs1 to get the destination register. 
+4. SB-type: Conditional branch instructions compare two registers and conditionally jump to a new address if the specified condition is met. Format: opcode rs1, rs2, label jumps to "label" location if conditions for rs1 and rs2 are met.
+5. U-type: Upper immediate instructions load a large immediate value into a register. Format: opcode rd, imm operates on the contents of the first 20 bits of immediate value in "imm" and loads it to register rd(destination register).
+6. UJ-type: Unconditional jump instructions jump to a new address with relative offset. Format: opcode rd, label operates on the contents of RD and jumps to "label" location.
