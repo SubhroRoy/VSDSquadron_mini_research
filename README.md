@@ -260,9 +260,9 @@ RISC-V Instruction types:<br>
 6. UJ-type: Unconditional jump instructions jump to a new address with relative offset. Format: opcode rd, label operates on the contents of RD and jumps to "label" location.
 <br><br>
 
-|Instructions   |32-bit instruction code|
-| ----------------- | ------------------------- |
-|ADD r1, r2, r3| 0000000 00011 00010 011 0011 |
+|Instructions   |32-bit instruction code|Function|
+| ----------------- | ------------------------- | ------|
+|ADD r1, r2, r3| 0000000 00011 00010 011 0011 | This instruction adds the immediate value 10 to the value stored in register r3. The result of r3 + 10 is then stored in register r1.
 |SUB r3, r1, r2| 0100000 00010 00001 011 0011 |
 |AND r2, r1, r3| 0000000 00011 00001 111 0011 |
 |OR r8, r2, r5| 0000000 00101 00010 110 0011 |
