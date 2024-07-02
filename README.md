@@ -260,6 +260,7 @@ RISC-V Instruction types:<br>
 6. UJ-type: Unconditional jump instructions jump to a new address with relative offset. Format: opcode rd, label operates on the contents of RD and jumps to "label" location.
 <br><br>
 |**Instructions**   |**32-bit instruction code**|
+| ----------------- | ------------------------- |
 |ADD r1, r2, r3     |                           |
 |SUB r3, r1, r2     |                           |
 |AND r2, r1, r3     |                           |
