@@ -248,4 +248,12 @@ LW r13, r11, 2 <br>
 SLL r15, r11, r2 <br>
 
 
-Upload the 32-bit pattern on Github
+Upload the 32-bit pattern on Github. <br>
+
+Before going through the specific instructions let us first understand the various **RISC-V Instruction types**.<br>
+RISC-V Instruction types:<br>
+1. R-type: Register-type instructions instructions perform operations where all operands are registers. Eg: opcode rd, rs1, rs2, where rd is the destination register and rs is the source register.
+2. I-type: Immediate-type instructions operate on an immediate value (constant) and a register. Eg: opcode rd, rs1, imm where imm is an immediate value.
+3. S-type: Store-type instructions store a value from the register onto memory. Eg opcode rs2, imm(rs1)
+4. 
+
