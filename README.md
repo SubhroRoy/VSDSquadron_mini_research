@@ -258,6 +258,7 @@ RISC-V Instruction types:<br>
 4. SB-type: Conditional branch instructions compare two registers and conditionally jump to a new address if the specified condition is met. Format: opcode rs1, rs2, label jumps to "label" location if conditions for rs1 and rs2 are met.
 5. U-type: Upper immediate instructions load a large immediate value into a register. Format: opcode rd, imm operates on the contents of the first 20 bits of immediate value in "imm" and loads it to register rd(destination register).
 6. UJ-type: Unconditional jump instructions jump to a new address with relative offset. Format: opcode rd, label operates on the contents of RD and jumps to "label" location.
+<br><br>
 |**Instructions**|**32-bit instruction code**|
 |ADD r1, r2, r3 |
 |SUB r3, r1, r2 |
