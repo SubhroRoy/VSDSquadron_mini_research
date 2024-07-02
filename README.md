@@ -267,7 +267,7 @@ RISC-V Instruction types:<br>
 |AND r2, r1, r3             | 0000000 00011 00001 111 0011         |Opcode: AND corresponds to the operation code for bitwise AND.<br> Destination Register (rd): r2 is the destination register where the result will be stored.<br> Source Register 1 (rs1): r1 is the first source register.<br> Source Register 2 (rs2): r3 is the second source register.<br> |
 |OR r8, r2, r5              | 0000000 00101 00010 110 0011         |Opcode: OR corresponds to the operation code for bitwise OR.<br> Destination Register (rd): r8 is the destination register where the result will be stored. <br> Source Register 1 (rs1): r2 is the first source register. <br> Source Register 2 (rs2): r5 is the second source register. <br>
 |XOR r8, r1, r4             | 0000000 00100 00001 100 0011         |Opcode: XOR corresponds to the operation code for bitwise XOR (exclusive OR).<br> Destination Register (rd): r8 is the destination register where the result will be stored.<br> Source Register 1 (rs1): r1 is the first source register.<br> Source Register 2 (rs2): r4 is the second source register.
-|SLT r10, r2, r4            | 0000000 00100 00010 010 0011         |
+|SLT r10, r2, r4            | 0000000 00100 00010 010 0011         |Opcode: SLT corresponds to the operation code for Set Less Than.<br> Destination Register (rd): r10 is the destination register where the result (1 if rs1 < rs2, else 0) will be stored. <br> Source Register 1 (rs1): r2 is the first source register.<br> Source Register 2 (rs2): r4 is the second source register. <br>
 |ADDI r12, r3, 5            | 0000000 00011 01100 000 0011         |
 |SW r3, r1, 4               | 0000000 00011 00001 010 0011         |
 |SRL r16, r11, r2           | 0000000 00010 01011 101 0011         |
