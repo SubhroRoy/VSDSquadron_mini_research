@@ -260,8 +260,8 @@ RISC-V Instruction types:<br>
 6. UJ-type: Unconditional jump instructions jump to a new address with relative offset. Format: opcode rd, label operates on the contents of RD and jumps to "label" location.
 <br><br>
 
-|Instructions   |32-bit instruction code|Function|
-| ----------------- | ---------------------------- | ----------------------------------------------------------------------- |
+|Instructions       | 32-bit instruction code      |Function                                                                 |
+| ----------------: | ---------------------------- | ----------------------------------------------------------------------- |
 |ADD r1, r2, r3     | 0000000 00011 00010 011 0011 | Opcode: ADD corresponds to the operation code for addition. Destination Register (rd): r1 is the destination register where the result will be stored. Source Register 1 (rs1): r2 is the first source register. Source Register 2 (rs2): r3 is the second source register.|
 |SUB r3, r1, r2     | 0100000 00010 00001 011 0011 |Opcode: SUB corresponds to the operation code for subtraction. Destination Register (rd): r3 is the destination register where the result will be stored. Source Register 1 (rs1): r1 is the first source register. Source Register 2 (rs2): r2 is the second source register. |
 |AND r2, r1, r3     | 0000000 00011 00001 111 0011 |Opcode: AND corresponds to the operation code for bitwise AND. Destination Register (rd): r2 is the destination register where the result will be stored. Source Register 1 (rs1): r1 is the first source register. Source Register 2 (rs2): r3 is the second source register |
