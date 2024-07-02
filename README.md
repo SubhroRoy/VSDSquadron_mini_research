@@ -260,18 +260,18 @@ RISC-V Instruction types:<br>
 6. UJ-type: Unconditional jump instructions jump to a new address with relative offset. Format: opcode rd, label operates on the contents of RD and jumps to "label" location.
 <br><br>
 
-|Instructions                   | 32-bit instruction code                  | Function |
-| ----------------------------- | ---------------------------------------- | -------- |
-|ADD r1, r2, r3     | 0000000 00011 00010 011 0011 | Opcode: ADD corresponds to the operation code for addition. <br> Destination Register (rd): r1 is the destination register where the result will be stored. <br> Source Register 1 (rs1): r2 is the first source register. <br> Source Register 2 (rs2): r3 is the second source register. <br>|
-|SUB r3, r1, r2     | 0100000 00010 00001 011 0011 |Opcode: SUB corresponds to the operation code for subtraction. <br> Destination Register (rd): r3 is the destination register where the result will be stored. <br> Source Register 1 (rs1): r1 is the first source register. <br> Source Register 2 (rs2): r2 is the second source register. <br>|
-|AND r2, r1, r3     | 0000000 00011 00001 111 0011 |Opcode: AND corresponds to the operation code for bitwise AND.<br> Destination Register (rd): r2 is the destination register where the result will be stored.<br> Source Register 1 (rs1): r1 is the first source register.<br> Source Register 2 (rs2): r3 is the second source register.<br> |
-|OR r8, r2, r5      | 0000000 00101 00010 110 0011 |
-|XOR r8, r1, r4     | 0000000 00100 00001 100 0011 |
-|SLT r10, r2, r4    | 0000000 00100 00010 010 0011 |
-|ADDI r12, r3, 5    | 0000000 00011 01100 000 0011 |
-|SW r3, r1, 4       | 0000000 00011 00001 010 0011 |
-|SRL r16, r11, r2   | 0000000 00010 01011 101 0011 |
-|BNE r0, r1, 20     | 0001010 00001 00000 110 0011 |
-|BEQ r0, r0, 15     | 0000111 00000 00000 110 0011 |
-|LW r13, r11, 2     | 0000000 00010 01011 011 0011 |
-|SLL r15, r11, r2   | 0000000 00010 01011 001 0011 |
+|Instructions               | 32-bit instruction code              | Function |
+| ------------------------- | ------------------------------------ | -------- |
+|ADD r1, r2, r3             | 0000000 00011 00010 011 0011         | Opcode: ADD corresponds to the operation code for addition. <br> Destination Register (rd): r1 is the destination register where the result will be stored. <br> Source Register 1 (rs1): r2 is the first source register. <br> Source Register 2 (rs2): r3 is the second source register. <br>|
+|SUB r3, r1, r2             | 0100000 00010 00001 011 0011         |Opcode: SUB corresponds to the operation code for subtraction. <br> Destination Register (rd): r3 is the destination register where the result will be stored. <br> Source Register 1 (rs1): r1 is the first source register. <br> Source Register 2 (rs2): r2 is the second source register. <br>|
+|AND r2, r1, r3             | 0000000 00011 00001 111 0011         |Opcode: AND corresponds to the operation code for bitwise AND.<br> Destination Register (rd): r2 is the destination register where the result will be stored.<br> Source Register 1 (rs1): r1 is the first source register.<br> Source Register 2 (rs2): r3 is the second source register.<br> |
+|OR r8, r2, r5              | 0000000 00101 00010 110 0011         |
+|XOR r8, r1, r4             | 0000000 00100 00001 100 0011         |
+|SLT r10, r2, r4            | 0000000 00100 00010 010 0011         |
+|ADDI r12, r3, 5            | 0000000 00011 01100 000 0011         |
+|SW r3, r1, 4               | 0000000 00011 00001 010 0011         |
+|SRL r16, r11, r2           | 0000000 00010 01011 101 0011         |
+|BNE r0, r1, 20             | 0001010 00001 00000 110 0011         |
+|BEQ r0, r0, 15             | 0000111 00000 00000 110 0011         |
+|LW r13, r11, 2             | 0000000 00010 01011 011 0011         |
+|SLL r15, r11, r2           | 0000000 00010 01011 001 0011         |
