@@ -227,4 +227,25 @@ Fig 22 Step by Step execution of assembly code for main part of clock_cycle_divi
 
 ## LAB 4 
 The tasks in this lab session are as follows:<br>
-&rarr;
+&rarr; Identify the RISC-V instruction type (R, I, S, B, U, J).
+&rarr; Extract the 32-bit instruction code in the instruction type format.<br>
+
+The RISC-V instructions to identify:<br>
+
+ADD r1, r2, r3 <br>
+SUB r3, r1, r2 <br>
+AND r2, r1, r3 <br>
+OR r8, r2, r5 <br>
+XOR r8, r1, r4 <br>
+XOR r8, r1, r4 <br>
+SLT r10, r2, r4 <br>
+ADDI r12, r3, 5 <br>
+SW r3, r1, 4 <br>
+SRL r16, r11, r2 <br>
+BNE r0, r1, 20 <br>
+BEQ r0, r0, 15 <br>
+LW r13, r11, 2 <br>
+SLL r15, r11, r2 <br>
+
+
+Upload the 32-bit pattern on Github
