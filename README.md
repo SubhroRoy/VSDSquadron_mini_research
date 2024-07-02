@@ -227,4 +227,4 @@ Fig 22 Step by Step execution of assembly code for main part of clock_cycle_divi
 
 ## LAB 4 
 The tasks in this lab session are as follows:<br>
-&rarr
+&rarr;
