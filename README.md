@@ -262,8 +262,8 @@ RISC-V Instruction types:<br>
 
 |Instructions       | 32-bit instruction code      |Function                                                                 |
 | ----------------: | ---------------------------- | ----------------------------------------------------------------------- |
-|ADD r1, r2, r3     | 0000000 00011 00010 011 0011 | Opcode: ADD corresponds to the operation code for addition. Destination Register (rd): r1 is the destination register where the result will be stored. Source Register 1 (rs1): r2 is the first source register. Source Register 2 (rs2): r3 is the second source register.|
-|SUB r3, r1, r2     | 0100000 00010 00001 011 0011 |Opcode: SUB corresponds to the operation code for subtraction. Destination Register (rd): r3 is the destination register where the result will be stored. Source Register 1 (rs1): r1 is the first source register. Source Register 2 (rs2): r2 is the second source register. |
+|ADD r1, r2, r3     | 0000000 00011 00010 011 0011 | Opcode: ADD corresponds to the operation code for addition. <br> Destination Register (rd): r1 is the destination register where the result will be stored. <br> Source Register 1 (rs1): r2 is the first source register. <br> Source Register 2 (rs2): r3 is the second source register. <br>|
+|SUB r3, r1, r2     | 0100000 00010 00001 011 0011 |Opcode: SUB corresponds to the operation code for subtraction. <br> Destination Register (rd): r3 is the destination register where the result will be stored. <br> Source Register 1 (rs1): r1 is the first source register. <br> Source Register 2 (rs2): r2 is the second source register. <br>|
 |AND r2, r1, r3     | 0000000 00011 00001 111 0011 |Opcode: AND corresponds to the operation code for bitwise AND. Destination Register (rd): r2 is the destination register where the result will be stored. Source Register 1 (rs1): r1 is the first source register. Source Register 2 (rs2): r3 is the second source register |
 |OR r8, r2, r5      | 0000000 00101 00010 110 0011 |
 |XOR r8, r1, r4     | 0000000 00100 00001 100 0011 |
