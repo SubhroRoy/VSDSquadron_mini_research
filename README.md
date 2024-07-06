@@ -310,7 +310,7 @@ $ gtkwave iiitb_rv32i.vcd
 </figure><br><br>
 
 <figure>
-<img width="245" alt="image" src="https://github.com/SubhroRoy/VSDSquadron_mini_research/assets/169291565/d7ce9206-efd2-410c-82f5-81028a0f9675">
+<img width="253" alt="image" src="https://github.com/SubhroRoy/VSDSquadron_mini_research/assets/169291565/1e0dff72-7075-4546-98dd-a06feebcc10f">
 <br>
 <figurecaption>Fig 23 Basic Instructions <br>  </figurecaption>
 </figure><br><br>
@@ -323,3 +323,5 @@ $ gtkwave iiitb_rv32i.vcd
 
 In Fig 24, all instructions in Fig 23 have been executed and plotted in waveform.<br>
 Now we can look at the execution of all institutions separately. <br>
+
+Instruction 1 : add 
