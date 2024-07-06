@@ -289,6 +289,15 @@ $   sudo apt get update <br>
 $   sudo apt get install iverilog gtkwave <br>
 
 These are the instructions executed.: <br>
+
+<figure>
 <img width="259" alt="image" src="https://github.com/SubhroRoy/VSDSquadron_mini_research/assets/169291565/320274bf-7e0e-4d31-802f-5c35d14f3ad5">
+<br>
+<figurecaption>Fig 22 Instructions executed   
+</figure>
 
-
+<figure>
+<img width="259" alt="image" src="https://github.com/SubhroRoy/VSDSquadron_mini_research/assets/169291565/320274bf-7e0e-4d31-802f-5c35d14f3ad5">
+<br>
+<figurecaption>Fig 23 Output waveform seem in GTKWave   
+</figure>
