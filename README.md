@@ -275,3 +275,12 @@ RISC-V Instruction types:<br>
 |BEQ r0, r0, 15             | 0000111 00000 00000 110 0011         |Opcode: BEQ corresponds to the operation code for branch if equal. <br> Source Register 1 (rs1): r0 is the first source register whose value is compared. <br> Source Register 2 (rs2): r0 is the second source register whose value is compared. <br> Immediate Value (imm): 15 is the immediate value representing the number of instructions to branch forward if the condition is met.
 |LW r13, r11, 2             | 0000000 00010 01011 011 0011         |Opcode: LW corresponds to the operation code for loading a word from memory. <br> Destination Register (rd): r13 is the destination register where the loaded value will be stored. <br> Base Register (rs1): r11 is the base register that holds the base address from where the data will be loaded. <br> Offset Immediate (imm): 2 is the immediate offset added to the base address in r11 to calculate the memory address from where to load the word.
 |SLL r15, r11, r2           | 0000000 00010 01011 001 0011         |Opcode: SLL corresponds to the operation code for logical left shift. <br>Destination Register (rd): r15 is the destination register where the result of the shift operation will be stored. <br>Source Register (rs1): r11 is the source register containing the value to be shifted left. <br> Shift Amount (rs2): r2 is the source register containing the amount by which r11 will be shifted left.
+<br><br>
+
+## LAB 5
+
+The tasks to be done in Lab 5 are:<br>
+&rarr; Use the Verilog netlist and test bench for functional simulation.
+&rarr; Upload waveform snapshots for the command.
+<br><br>
+
