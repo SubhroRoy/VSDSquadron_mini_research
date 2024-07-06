@@ -321,7 +321,45 @@ $ gtkwave iiitb_rv32i.vcd
 <figurecaption>Fig 24 Output waveform seem in GTKWave <br>  </figurecaption>
 </figure><br><br>
 
-In Fig 24, all instructions in Fig 23 have been executed and plotted in waveform.<br>
+In Fig 24, all instructions in Fig 23 have been executed and plotted in waveform.<br><br>
 Now we can look at the execution of all institutions separately. <br>
+Value of r1 to r17:<br>
+REG[1] <= 32'd1;<br>
+REG[2] <= 32'd2;<br>
+REG[3] <= 32'd3;<br>
+REG[4] <= 32'd4;<br>
+REG[5] <= 32'd5;<br>
+REG[6] <= 32'd6;<br>
+REG[7] = 32'd7;<br>
+REG[6] = 32'd6;<br>
+REG[7] = 32'd7;<br>
+REG[8] = 32'd8;<br>
+REG[9] = 32'd9;<br>
+REG[10] = 32'd10;<br>
+REG[11] = 32'd11;<br>
+REG[12] = 32'd12;<br>
+REG[13] = 32'd13;<br>
+REG[14] = 32'd14;<br>
+REG[15] = 32'd15;<br>
+REG[16] = 32'd16;<br>
+REG[17] = 32'd17;<br><br>
 
-Instruction 1 : add 
+Instruction 1: add r6,r1,r2.(i1)<br>
+Addition of data in reg1 and reg 2 and save in reg 6 (1+2 = 3).<br>
+Instruction 2: sub r7,r1,r2.(i2)<br>
+Difference of data in reg 1 and 2 and save in reg 7 as a signed decimal value (1-2 = -1).<br>
+and r8,r1,r3.(i3)<br>
+or r9,r2,r5.(i4)<br>
+xor r10,r1,r4.(i5)<br>
+slt r11,r2,r4.(i6)<br>
+addi r12,r4,5.(i7)<br>
+sw r3,r1,2.(i8)<br>
+lw r13,r1,2.(i9)<br>
+beq r0,r0,15.(i10)<br>
+add r14,r2,r2.(i11)<br>
+bne r0,r1,20.(i12)<br>
+addi r12,r4,5.(i13)<br>
+sll r15,r1,r2(2).(i14)<br>
+srl r16,r14,r2(2).(i15)<br>
+
+
