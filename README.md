@@ -288,8 +288,21 @@ Ran the below comands to download iverilog and GTKWave: <br>
 $   sudo apt get update <br>
 $   sudo apt get install iverilog gtkwave <br>
 
-These are the instructions executed.: <br>
+We then clone the repository and access location <br>
+$ git clone https://github.com/vinayrayapati/iiitb_rv32i <br>
+$ cd iiitb_rv32i <br>
 
+I have copied all the iiitbrv32i data to another folder "verilog_riscv_expt" for this experiment.<br>
+To simulate and run verilog code we use the following command: <br>
+
+These are the instructions executed.: <br>
+$ iverilog -o iiitb_rv32i iiitb_rv32i.v iiitb_rv32i_tb.v <br>
+$ ./iiitb_rv32i <br>
+
+The .vcd file is created. This can be used to generate waveforms on GTKWave.<br>
+
+To see the output in GTKWave we use the below command:<br>
+$ gtkwave iiitb_rv32i.vcd
 <figure>
 <img width="259" alt="image" src="https://github.com/SubhroRoy/VSDSquadron_mini_research/assets/169291565/320274bf-7e0e-4d31-802f-5c35d14f3ad5">
 <br>
