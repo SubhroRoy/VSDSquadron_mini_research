@@ -320,3 +320,6 @@ $ gtkwave iiitb_rv32i.vcd
 <br>
 <figurecaption>Fig 24 Output waveform seem in GTKWave <br>  </figurecaption>
 </figure><br><br>
+
+In Fig 24, all instructions in Fig 23 have been executed and plotted in waveform.<br>
+Now we can look at the execution of all institutions separately. <br>
