@@ -227,7 +227,7 @@ Fig 22 Step by Step execution of assembly code for main part of clock_cycle_divi
 
 ## LAB 4 
 The tasks in this lab session are as follows:<br>
-&rarr; Identify the RISC-V instruction type (R, I, S, B, U, J).
+&rarr; Identify the RISC-V instruction type (R, I, S, B, U, J).<br>
 &rarr; Extract the 32-bit instruction code in the instruction type format.<br>
 
 The RISC-V instructions to identify:<br>
@@ -280,7 +280,7 @@ RISC-V Instruction types:<br>
 ## LAB 5
 
 The tasks to be done in Lab 5 are:<br>
-&rarr; Use the Verilog netlist and test bench for functional simulation.
-&rarr; Upload waveform snapshots for the command.
+&rarr; Use the Verilog netlist and test bench for functional simulation.<br>
+&rarr; Upload waveform snapshots for the command.<br>
 <br><br>
 
