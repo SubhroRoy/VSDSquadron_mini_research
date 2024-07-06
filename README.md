@@ -348,8 +348,10 @@ Instruction 1: add r6,r1,r2.(i1)<br>
 Addition of data in reg1 and reg 2 and save in reg 6 (1+2 = 3).<br>
 Instruction 2: sub r7,r1,r2.(i2)<br>
 Difference of data in reg 1 and 2 and save in reg 7 as a signed decimal value (1-2 = -1).<br>
-and r8,r1,r3.(i3)<br>
-or r9,r2,r5.(i4)<br>
+Instruction 3: and r8,r1,r3.(i3)<br>
+Bitwise AND of data in reg1 and reg 3 i.e.001(binary) AND 011(binary). The output is 001(binary) i.e. 1(decimal).<br>
+Instruction 4: or r9,r2,r5.(i4)<br>
+Bitwise OR of data in reg 5 and reg 2 i.e. 101(binary) and 010(binary). The output is 111(binary) i.e. 7(decimal).<br>
 xor r10,r1,r4.(i5)<br>
 slt r11,r2,r4.(i6)<br>
 addi r12,r4,5.(i7)<br>
