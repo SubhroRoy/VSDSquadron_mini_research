@@ -297,7 +297,13 @@ These are the instructions executed.: <br>
 </figure><br><br>
 
 <figure>
-<img width="259" alt="image" src="https://github.com/SubhroRoy/VSDSquadron_mini_research/assets/169291565/320274bf-7e0e-4d31-802f-5c35d14f3ad5">
+<img width="245" alt="image" src="https://github.com/SubhroRoy/VSDSquadron_mini_research/assets/169291565/d7ce9206-efd2-410c-82f5-81028a0f9675">
 <br>
-<figurecaption>Fig 23 Output waveform seem in GTKWave <br>  </figurecaption>
+<figurecaption>Fig 23 Basic Instructions <br>  </figurecaption>
+</figure><br><br>
+
+<figure>
+<img width="754" alt="image" src="https://github.com/SubhroRoy/VSDSquadron_mini_research/assets/169291565/572cbf72-1a60-4279-b904-94fdf25c475b">
+<br>
+<figurecaption>Fig 24 Output waveform seem in GTKWave <br>  </figurecaption>
 </figure><br><br>
