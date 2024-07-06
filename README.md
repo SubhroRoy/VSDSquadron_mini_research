@@ -344,6 +344,7 @@ REG[15] = 32'd15;<br>
 REG[16] = 32'd16;<br>
 REG[17] = 32'd17;<br><br>
 
+The output sequence seen is (signed decimal): 3, -1, 1, 7, 5, 1, 9, 9.<br>
 Instruction 1: add r6,r1,r2.(i1)<br>
 Addition of data in reg1 and reg 2 and save in reg 6 (1+2 = 3).<br>
 Instruction 2: sub r7,r1,r2.(i2)<br>
