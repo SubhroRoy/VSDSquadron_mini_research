@@ -284,3 +284,11 @@ The tasks to be done in Lab 5 are:<br>
 &rarr; Upload waveform snapshots for the command.<br>
 <br><br>
 
+Ran the below comands to download iverilog and GTKWave: <br>
+$   sudo apt get update <br>
+$   sudo apt get install iverilog gtkwave <br>
+
+These are the instructions executed.: <br>
+<img width="259" alt="image" src="https://github.com/SubhroRoy/VSDSquadron_mini_research/assets/169291565/320274bf-7e0e-4d31-802f-5c35d14f3ad5">
+
+
