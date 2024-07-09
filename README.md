@@ -365,6 +365,7 @@ lw r13,r1,2.(i9)<br>
 beq r0,r0,15.(i10)<br>
 add r14,r2,r2.(i11)<br>
 
-## Lab 6 : Clock Cycle Divider
+## Lab 6: Clock Cycle Divider
 ### Overview of a clock cycle divider
+A clock cycle divider is a digital clock divider circuit. It takes a high-frequency clock signal as input and produces a low-frequency clock signal as output. This low frequency clock signal can be obtained by dividing the high frequency clock signal by a factor of 2, 4, 8, etc.<br>
 
