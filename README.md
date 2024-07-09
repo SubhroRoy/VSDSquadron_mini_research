@@ -375,3 +375,5 @@ A clock cycle divider is a digital clock divider circuit. It takes a high-freque
 <br>
 <figurecaption>Fig 25 VSDSquadron mini RISC-V development board block diagram <br>  </figurecaption>
 </figure><br><br>
+
+The functionality of the clock cycle divider is as follows. The input clock signal (high-frequency) is fed into a counter, which increments on each rising edge. Using this method, we can capture the number of cycles in the input clock signal. Once the number of cycles reaches the desired division factor, we reset the output to zero. This will be implemented on a VSDSquadron Mini RISC-V development board. In FIG 25 we can see the block diagram of the VSDSquadron mini development board. <br> 
