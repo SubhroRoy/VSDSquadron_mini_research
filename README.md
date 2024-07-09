@@ -358,7 +358,7 @@ Bitwise XOR of value in reg 1 and reg 4 i.e. 001(binary) XOR 100(binary). The ou
 Instruction 6: slt r11,r2,r4.(i6)<br>
 This instruction compares values of reg 2 and reg 4, if reg 2< reg 4 then it returns 1 or else 0. Here 2<4 so the value returned is 1.<br> 
 Instruction 7: addi r12,r4,5.(i7)<br>
-This instruction immediately adds 5 to the data in reg 4. The output is 5 + 4 = 9(signed decimal).
+This instruction immediately adds 5 to the data in reg 4. The output is 5 + 4 = 9(signed decimal).<br>
 sw r3,r1,2.(i8)<br>
 lw r13,r1,2.(i9)<br>
 beq r0,r0,15.(i10)<br>
