@@ -363,9 +363,3 @@ sw r3,r1,2.(i8)<br>
 lw r13,r1,2.(i9)<br>
 beq r0,r0,15.(i10)<br>
 add r14,r2,r2.(i11)<br>
-bne r0,r1,20.(i12)<br>
-addi r12,r4,5.(i13)<br>
-sll r15,r1,r2(2).(i14)<br>
-srl r16,r14,r2(2).(i15)<br>
-
-
