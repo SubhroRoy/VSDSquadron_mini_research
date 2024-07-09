@@ -365,4 +365,6 @@ lw r13,r1,2.(i9)<br>
 beq r0,r0,15.(i10)<br>
 add r14,r2,r2.(i11)<br>
 
-## Lab 6 : 
+## Lab 6 : Clock Cycle Divider
+### Overview of a clock cycle divider
+
