@@ -367,5 +367,11 @@ add r14,r2,r2.(i11)<br>
 
 ## Lab 6: Clock Cycle Divider
 ### Overview of a clock cycle divider
-A clock cycle divider is a digital clock divider circuit. It takes a high-frequency clock signal as input and produces a low-frequency clock signal as output. This low frequency clock signal can be obtained by dividing the high frequency clock signal by a factor of 2, 4, 8, etc.<br>
+This project will show the implementation of a clock cycle divider on a VSDSquadron Mini RISC-V development board. For that we must first see how a clock cycle divider operates. Here is a brief overview of a clock cycle divider.<br>
+A clock cycle divider is a digital clock divider circuit. It takes a high-frequency clock signal as input and produces a low-frequency clock signal as output. This low-frequency clock signal can be obtained by dividing the high-frequency clock signal by a factor of 2, 4, 8, etc.<br>
 
+<figure>
+<img width="565" alt="image" src="https://github.com/SubhroRoy/VSDSquadron_mini_research/assets/169291565/c1e48c6e-9d80-431b-bed5-949af81cceed">
+<br>
+<figurecaption>Fig 25 VSDSquadron mini RISC-V development board block diagram <br>  </figurecaption>
+</figure><br><br>
