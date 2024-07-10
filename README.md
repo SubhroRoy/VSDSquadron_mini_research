@@ -392,7 +392,7 @@ The functionality of the clock cycle divider is as follows. The input clock sign
 3. Output: Connect the output of the divider circuit to a component that requires the divided clock signal.
 
 ### Pinout Diagram for the clock cycle divider
-Most of the required elements for this project are already present in the VSDSquadron development board. The Basic pin diagram can be seen below <>
+Most of the required elements for this project are already present in the VSDSquadron development board. The Basic pin diagram can be seen below :<br>
 <figure>
 <img width="921" alt="image" src="https://github.com/SubhroRoy/VSDSquadron_mini_research/assets/169291565/08c95b1f-3897-4239-b38a-044550d64f04">
 <br>
