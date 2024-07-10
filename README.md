@@ -366,7 +366,7 @@ beq r0,r0,15.(i10)<br>
 add r14,r2,r2.(i11)<br>
 
 ## Lab 6: Clock Cycle Divider
-### Overview of a clock cycle divider
+### Overview of a clock cycle divider.
 This project will show the implementation of a clock cycle divider on a VSDSquadron Mini RISC-V development board. For that we must first see how a clock cycle divider operates. Here is a brief overview of a clock cycle divider.<br>
 A clock cycle divider is a digital clock divider circuit. It takes a high-frequency clock signal as input and produces a low-frequency clock signal as output. This low-frequency clock signal can be obtained by dividing the high-frequency clock signal by a factor of 2, 4, 8, etc.<br>
 
@@ -376,4 +376,6 @@ A clock cycle divider is a digital clock divider circuit. It takes a high-freque
 <figurecaption>Fig 25 VSDSquadron mini RISC-V development board block diagram <br>  </figurecaption>
 </figure><br><br>
 
-The functionality of the clock cycle divider is as follows. The input clock signal (high-frequency) is fed into a counter, which increments on each rising edge. Using this method, we can capture the number of cycles in the input clock signal. Once the number of cycles reaches the desired division factor, we reset the output to zero. This will be implemented on a VSDSquadron Mini RISC-V development board. FIG 25 shows the block diagram of the VSDSquadron mini development board. <br> 
+The functionality of the clock cycle divider is as follows. The input clock signal (high-frequency) is fed into a counter, which increments on each rising edge. Using this method, we can capture the number of cycles in the input clock signal. Once the number of cycles reaches the desired division factor, we reset the output to zero. This will be implemented on a VSDSquadron Mini RISC-V development board. FIG 25 shows the block diagram of the VSDSquadron mini development board. This project aims to create a digital clock divider circuit that can reduce clock speed for power saving and operate multiple devices that require lower clock speeds to function. <br><br> 
+
+### Components required to build a clock cycle divider.
