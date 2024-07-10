@@ -367,7 +367,7 @@ add r14,r2,r2.(i11)<br>
 
 ## Lab 6: Clock Cycle Divider
 ### Overview of a clock cycle divider.
-This project will show the implementation of a clock cycle divider on a VSDSquadron Mini RISC-V development board. For that we must first see how a clock cycle divider operates. Here is a brief overview of a clock cycle divider.<br>
+This project will show the implementation of a clock cycle divider on a VSDSquadron Mini RISC-V development board. For that, we must first see how a clock cycle divider operates. Here is a brief overview of a clock cycle divider.<br>
 A clock cycle divider is a digital clock divider circuit. It takes a high-frequency clock signal as input and produces a low-frequency clock signal as output. This low-frequency clock signal can be obtained by dividing the high-frequency clock signal by a factor of 2, 4, 8, etc.<br>
 
 <figure>
@@ -379,8 +379,22 @@ A clock cycle divider is a digital clock divider circuit. It takes a high-freque
 The functionality of the clock cycle divider is as follows. The input clock signal (high-frequency) is fed into a counter, which increments on each rising edge. Using this method, we can capture the number of cycles in the input clock signal. Once the number of cycles reaches the desired division factor, we reset the output to zero. This will be implemented on a VSDSquadron Mini RISC-V development board. FIG 25 shows the block diagram of the VSDSquadron mini development board. This project aims to create a digital clock divider circuit that can reduce clock speed for power saving and operate multiple devices that require lower clock speeds to function. <br><br> 
 
 ### Components required to build a clock cycle divider.
-1. VSD Squadron mini board (already have)
-2. FPGA fabric (already available on the board)
-3. Clock management unit (CMU) (already available on the board)
+1. VSD Squadron mini board 
+2. Programmer (already available on the board)
+3. Clock management unit (CMU) (a 24MHZ RC oscillator is already available on the board)
 4. Registers (already available on the board)
-5. Wire connections (available on the board's breadboard area or via FPGA pins)
+5. Wire connections (breadboard)
+<br> <br>
+
+### Circuit connections for the clock cycle divider
+1. Input: Connect the 24MHz clock signal from the onboard oscillator to the input of the divider circuit.
+2. Divider Circuit: Implement a digital circuit using gates (e.g., flip-flops, counters) to divide the input clock frequency. Use Registers to store the value of N and clock out
+3. Output: Connect the output of the divider circuit to a component that requires the divided clock signal.
+
+### Pinout Diagram for the clock cycle divider
+Most of the required elements for this project are already present in the VSDSquadron development board. The Basic pin diagram can be seen below <>
+<figure>
+<img width="921" alt="image" src="https://github.com/SubhroRoy/VSDSquadron_mini_research/assets/169291565/08c95b1f-3897-4239-b38a-044550d64f04">
+<br>
+<figurecaption>Fig 26 Pin diagram for clock cycle divider <br>  </figurecaption>
+</figure><br><br>
